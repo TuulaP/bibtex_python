@@ -1,3 +1,11 @@
+# Temp experiments
+bib_pip.py
+*.csv
+doExport*
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

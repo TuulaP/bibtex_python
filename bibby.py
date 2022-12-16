@@ -3,7 +3,7 @@ import bibtexparser
 import csv
 
 # file to be processed, should be as input arg
-inputfile = "doExport3.bib"
+inputfile = "sample.bib"
 inputfilebase = inputfile.split(".")[0]
 
 
